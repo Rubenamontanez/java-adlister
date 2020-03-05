@@ -10,7 +10,7 @@ public class Ad {
         this.title = title;
         this.description = description;
     }
-
+//    identical but first one but from database
     public Ad(long userId, String title, String description) {
         this.userId = userId;
         this.title = title;
